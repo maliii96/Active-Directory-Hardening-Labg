@@ -1,1 +1,1 @@
-# Active-Directory-Hardening-Labg
+# Active-Directory-Hardening-Lab
